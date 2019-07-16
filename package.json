@@ -1,0 +1,26 @@
+{
+  "name": "promise-timeout-wrapper",
+  "version": "1.0.0",
+  "description": "Promise timeout wrapper using Promise.race",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "promise",
+    "timeout"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayrosik/promise-timeout-wrapper.git"
+  },
+  "author": "kayrosik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kayrosik/promise-timeout-wrapper/issues"
+  },
+  "homepage": "https://github.com/kayrosik/promise-timeout-wrapper#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
